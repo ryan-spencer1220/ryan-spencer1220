@@ -2,8 +2,6 @@
 
 ### React / C# Developer
 
-<br/>
-
 ---
 
 <br/>
