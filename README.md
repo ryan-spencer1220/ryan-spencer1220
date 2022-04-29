@@ -1,6 +1,6 @@
 ## Ryan Spencer
 
-### React / C# Developer
+### Frontend Developer
 
 ---
 
