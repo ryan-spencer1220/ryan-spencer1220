@@ -11,7 +11,7 @@ Full-time student at Epicodus specializing in JavaScript, React, and C#. Looking
 ---
 <br/>
 
-https://www.codewars.com/users/kidCorgi/badges/large
+[!image]https://www.codewars.com/users/kidCorgi/badges/large
 
 <br/>
 
