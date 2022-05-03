@@ -15,6 +15,6 @@ Full-time student at Epicodus specializing in JavaScript, React, and C#. Looking
 
 <br/>
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-spencer1220&show_icons=true&theme=merko)](https://github.com/ryan-spencer1220/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-spencer1220&show_icons=true&theme=radical)](https://github.com/ryan-spencer1220/github-readme-stats)
 
 <br/>
