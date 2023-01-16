@@ -15,6 +15,6 @@ Recent Epicodus graduate specializing in JavaScript, React, and C#. Searching fo
 
 <br/>
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-spencer1220&hide=contribs,prs)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-spencer1220&show_icons=true&theme=transparent)
 
 <br/>
