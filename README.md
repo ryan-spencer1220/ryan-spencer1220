@@ -6,7 +6,7 @@
 
 <br/>
 
-Frontend Developer currently pursuing a M.S. in Computer Science from Portland State University. I am a communicative, detail oriented, team player who presents technical information effectively with a passion for education and personal growth. I am constantly looking for new opportunities to grow as a developer. Take a look at my work or get in touch!
+Frontend Developer currently pursuing a M.S. in Computer Science from Portland State University. I am a communicative, detail oriented, team player who presents technical information effectively with a passion for education and personal growth. I'm always looking for new opportunities to grow as a developer. Currently I'm working as a frontend developer with a focus on accessibility for Portland Public Schools. Take a look at my work or get in touch!
 
 ---
 <br/>
